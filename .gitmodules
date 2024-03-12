@@ -1,0 +1,8 @@
+[submodule "ssd_pytorch_server"]
+	path = ssd_pytorch_code
+	url = https://github.com/robot-perception-group/pytorch_ssd_server.git
+	branch = master
+[submodule "AirCap"]
+	path = AirCap_code
+	url = https://github.com/robot-perception-group/AirCap.git
+	branch = deepfield-workshop_2022-03
