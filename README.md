@@ -8,7 +8,7 @@ tracking
 ## Installation:
 
 1. Clone repository with submodules (git clone --recursive)
-2. Install ROS noetic on Ubuntu 20.04 LT
+2. Install ROS noetic on Ubuntu 20.04 LTS
 
 ## Tutorial:
 
